@@ -1,7 +1,7 @@
 # Termini di Servizio — S.A.N.E. Italia
 **Portale Biologi Certificati**
 
-*Versione 1.0 — Aprile 2026*
+*Versione 1.1 — Aprile 2026*
 
 ---
 
@@ -28,7 +28,7 @@ L'utilizzo del Portale implica la piena accettazione dei presenti Termini di Ser
 
 3.3 L'account è personale e non cedibile. Il Biologo è responsabile della riservatezza delle proprie credenziali.
 
-3.4 S.A.N.E. Italia si riserva il diritto di sospendere o revocare l'accesso in caso di violazione dei presenti Termini.
+3.4 S.A.N.E. Italia si riserva il diritto di sospendere o revocare l'accesso in caso di violazione dei presenti Termini, secondo quanto previsto all'art. 4-bis.
 
 ---
 
@@ -39,6 +39,33 @@ L'utilizzo del Portale implica la piena accettazione dei presenti Termini di Ser
 4.2 La licenza è valida per il periodo indicato al momento della sottoscrizione e rinnovabile secondo le modalità comunicate da S.A.N.E. Italia.
 
 4.3 Il Biologo si impegna a utilizzare il Portale esclusivamente per le finalità del programma S.A.N.E. Italia nelle scuole convenzionate.
+
+4.4 **Divieto di sub-licenza.** Il Biologo non può cedere, sub-licenziare, rivendere o trasferire a terzi, in qualsiasi forma, i diritti di accesso al Portale, l'utilizzo del brand S.A.N.E. Italia, dei materiali didattici o del gioco "Il Piatto Sano". Qualsiasi utilizzo del brand o dei materiali da parte di soggetti terzi non espressamente autorizzati per iscritto da S.A.N.E. Italia costituisce violazione della presente licenza e dei diritti di proprietà intellettuale di cui all'art. 6.
+
+---
+
+## 4-bis. Sospensione e Revoca della Licenza
+
+**4-bis.1 Sospensione temporanea.** S.A.N.E. Italia può sospendere l'accesso al Portale con effetto immediato nei seguenti casi:
+
+- Utilizzo del Portale per finalità diverse da quelle del programma S.A.N.E. Italia.
+- Inserimento di dati falsi, inesatti o fuorvianti.
+- Condivisione delle credenziali di accesso con terzi.
+- Mancato pagamento del canone di licenza entro i termini previsti.
+- Avvio di procedimento disciplinare da parte dell'Ordine Nazionale dei Biologi a carico del Biologo.
+- Violazione delle disposizioni in materia di protezione dei dati personali (GDPR).
+
+**4-bis.2 Revoca definitiva.** S.A.N.E. Italia può revocare definitivamente la licenza nei seguenti casi:
+
+- Reiterata violazione dei presenti Termini dopo una sospensione temporanea.
+- Violazione grave e documentata del divieto di sub-licenza (art. 4.4).
+- Condanna disciplinare definitiva da parte dell'Ordine Nazionale dei Biologi.
+- Utilizzo del brand o dei materiali S.A.N.E. in modo lesivo per la reputazione del programma.
+- Comunicazione di recesso da parte del Biologo.
+
+**4-bis.3 Procedura.** In caso di sospensione o revoca, S.A.N.E. Italia comunica al Biologo la decisione via email con un preavviso di 7 giorni, salvo i casi di violazione grave che richiedono effetto immediato. Il Biologo può presentare controdeduzioni scritte entro 7 giorni dalla notifica.
+
+**4-bis.4 Effetti della revoca.** Alla revoca della licenza, il Biologo cessa immediatamente qualsiasi utilizzo del Portale, del brand S.A.N.E. Italia e dei materiali didattici. I dati inseriti nel Portale rimangono nella disponibilità di S.A.N.E. Italia in forma anonima e aggregata.
 
 ---
 
@@ -63,6 +90,8 @@ Il Biologo si impegna a:
 
 6.3 È vietata la riproduzione, distribuzione o modifica dei materiali senza autorizzazione scritta.
 
+6.4 **Utilizzo del brand nelle comunicazioni verso le scuole.** Il Biologo può utilizzare il nome "S.A.N.E. Italia" e i materiali forniti esclusivamente per presentare il programma alle scuole nell'ambito della propria attività professionale autorizzata. Qualsiasi altro utilizzo pubblico, promozionale o commerciale del brand richiede autorizzazione scritta preventiva di S.A.N.E. Italia.
+
 ---
 
 ## 7. Dati Inseriti nel Portale
@@ -82,6 +111,10 @@ Il Biologo si impegna a:
 8.2 S.A.N.E. Italia non garantisce la disponibilità continuativa del Portale e si riserva il diritto di modificarlo o aggiornarlo in qualsiasi momento.
 
 8.3 Il Biologo è l'unico responsabile del corretto utilizzo del Portale e della veridicità dei dati inseriti.
+
+8.4 **Responsabilità del Biologo verso le scuole.** Il Biologo opera in qualità di libero professionista autonomo nei confronti delle scuole. S.A.N.E. Italia non è parte del rapporto contrattuale tra il Biologo e la scuola e non assume alcuna responsabilità per il comportamento del Biologo nello svolgimento delle attività educative, per eventuali danni causati agli studenti, al personale scolastico o all'istituzione, né per inadempimenti contrattuali del Biologo verso la scuola. Il Biologo è tenuto a mantenere una copertura assicurativa RC professionale adeguata per tutta la durata della propria attività nell'ambito del programma.
+
+8.5 **Indennizzo.** Il Biologo si impegna a tenere indenne S.A.N.E. Italia da qualsiasi pretesa, danno, costo o spesa legale derivante da violazioni dei presenti Termini o da condotte del Biologo nei confronti di scuole, studenti o terzi.
 
 ---
 
